@@ -7,8 +7,9 @@ JW Player is the most powerful & flexible video platform powered by the fastest,
 
 ## Preview
 
-![1](https://github.com/stakiedd/JWPlayer/blob/master/images/preview.png)
-
+![1](https://github.com/stakiedd/JWPlayer/blob/master/images/preview1.png)
+![2](https://github.com/stakiedd/JWPlayer/blob/master/images/preview2.png)
+![3](https://github.com/stakiedd/JWPlayer/blob/master/images/preview3.png)
 
 ## Here is how to make it works
 
