@@ -7,7 +7,7 @@ JW Player is the most powerful & flexible video platform powered by the fastest,
 
 ## Preview
 
-![1](https://jw-v2.cdn.prismic.io/jw-v2/00113670ad380403bb308b18c9e79867f589f894_live-stream-player.webp)
+![1](https://github.com/stakiedd/JWPlayer/blob/master/images/preview.png)
 
 
 ## Here is how to make it works
